@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('iso-3166-country-codes', [])
+angular.module('iso-3166-2-codes', [])
   .factory('ISO3166', function() {
     var holder = {};
 
