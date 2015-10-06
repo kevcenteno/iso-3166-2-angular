@@ -1,7 +1,7 @@
 {
-  "name": "iso-3166-country-codes-angular",
-  "version": "1.1.1",
-  "main": "dist/iso-3166-country-codes-angular.min.js",
+  "name": "iso-3166-2-angular",
+  "version": "0.0.1",
+  "main": "dist/iso-3166-2-angular.min.js",
   "ignore": [
     "**/.*",
     "node_modules",
